@@ -1,0 +1,22 @@
+
+.col {
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.container {
+  margin-top: 20px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: blue;
+}
+
+.card-title{
+  font-weight: 700;
+}
+
+.card-text{
+  color: rgb(29, 185, 15);
+  font-weight: 600;
+}
